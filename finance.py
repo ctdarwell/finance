@@ -1,4 +1,7 @@
 #Yves Hilpisch - https://github.com/yhilpisch/py4fi2nd/blob/master/code/ch15/15_trading_strategies_b.ipynb
+
+#UNDER DEVELOPMENT
+
 #p484 Simple Moving Averages (SMAs)
 
 import numpy as np, sys
